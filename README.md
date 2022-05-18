@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @lasroun | Joel Mahougnon HOUETCHEKPO
-- 👀 I am interested in creating mobile and desktop applications. My second passion is cryptocurrencies
-- 🌱 I am currently learning the python language and its contours. More precisely with "Pyside" and "Django"
-- 💞️ I try to collaborate with whoever wants to.
-- 📫 How to reach me : joelmahougnon111@gmail.com
+# Hi, I’m lasroun | Joel Mahougnon HOUETCHEKPO
+#### - 👀 I am interested in _creating mobile and desktop applications_. My second passion is _cryptocurrencies_
+#### - 🌱 I am currently learning the _python language_ and its contours. More precisely with _Pyside and Django_
+#### - 💞️ I try to collaborate with whoever wants to.
+#### - 📫 How to reach me : [Mail](joelmahougnon111@gmail.com) | [Twitter](https://twitter.com/lasroun)
 
 <!---
 lasroun/lasroun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
