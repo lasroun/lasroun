@@ -22,10 +22,6 @@ Je suis un entrepreneur passionné et développeur web basé au Bénin. Fondateu
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lasroun&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lasroun&theme=radical)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=lasroun&theme=onedark)
-![Profile views](https://gpvc.arturio.dev/lasroun)
-
-#### 📊 Activité hebdomadaire
-![Joël's github activity graph](https://activity-graph.herokuapp.com/graph?username=lasroun&theme=xcode)
 
 N'hésitez pas à parcourir mes repos pour voir ce sur quoi je travaille et ce qui me passionne !
 
