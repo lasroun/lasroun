@@ -6,12 +6,12 @@
 
 #### 🚀 About Me
 
-I am a passionate entrepreneur and web developer based in Benin. As the founder of [Bénin Shopping Guide](https://beninshoppinguide.com), I am dedicated to enhancing both online and physical shopping experiences in Benin with a focus on trust and quality. In parallel, I work as a freelancer, specializing in WordPress, Django, and Vue.js under the alias Joel_MH on [Comeup](https://www.comeup.com/Joel_MH).
+I am a passionate entrepreneur and web developer based in Benin. As the founder of [Bénin Shopping Guide](https://beninshoppinguide.com), I am dedicated to enhancing both online and physical shopping experiences in Benin with a focus on trust and quality. In parallel, I work as a freelancer, specializing in WordPress, Django, React and Vue.js.
 
 #### 💻 Skills
 
 - **Programming Languages:** JavaScript, Python
-- **Frameworks:** Django, Vue.js
+- **Frameworks:** Django, React.js, Vue.js
 - **CMS:** WordPress
 
 #### 🌟 Highlighted Projects
@@ -33,12 +33,12 @@ I am a passionate entrepreneur and web developer based in Benin. As the founder 
 
 #### 🚀 À propos de moi
 
-Je suis un entrepreneur passionné et développeur web basé au Bénin. Fondateur de [Bénin Shopping Guide](https://beninshoppinguide.com), je m'efforce d'améliorer l'expérience d'achat en ligne et physique au Bénin en mettant l'accent sur la confiance et la qualité. En parallèle, je travaille en freelance, spécialisé en WordPress, Django, et Vue.js sous le pseudo de Joel_MH sur [Comeup](https://www.comeup.com/Joel_MH).
+Je suis un entrepreneur passionné et développeur web basé au Bénin. Fondateur de [Bénin Shopping Guide](https://beninshoppinguide.com), je m'efforce d'améliorer l'expérience d'achat en ligne et physique au Bénin en mettant l'accent sur la confiance et la qualité. En parallèle, je travaille en freelance, spécialisé en WordPress, Django, React et Vue.js.
 
 #### 💻 Mes compétences
 
 - **Langages de programmation :** JavaScript, Python
-- **Frameworks :** Django, Vue.js
+- **Frameworks :** Django, React.js, Vue.js
 - **CMS :** WordPress
 
 #### 🌟 Projets marquants
