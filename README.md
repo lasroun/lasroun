@@ -1,7 +1,3 @@
-# Welcome | Bienvenue
-
-## English Version
-
 ### Hello 👋, I'm Joël Mahougnon Houetchekpo
 
 #### 🚀 About Me
